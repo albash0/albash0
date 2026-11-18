@@ -2,6 +2,13 @@
 
 I'm a first-year **Aerospace Engineering Sciences (ASEN) and Creative Technology & Design (CTD) student at the University of Colorado Boulder**. I build projects that connect embedded software, electronics, and physical design, with an interest in making hardware useful and understandable to the person holding it.
 
+## Built hardware
+
+| MiniConsole: OLED to color TFT | OpenCamera: active prototype |
+| --- | --- |
+| <a href="https://github.com/albash0/MiniConsole"><img src="https://raw.githubusercontent.com/albash0/MiniConsole/main/docs/media/photos/finished-oled-and-tft-top.jpg" alt="Assembled MiniConsole generations: OLED above and color TFT below" width="360"></a> | <a href="https://github.com/albash0/OpenCamera"><img src="https://raw.githubusercontent.com/albash0/OpenCamera/main/docs/images/opencamera-prototype.png" alt="Physical OpenCamera V71 prototype with exposed electronics and batteries" width="180"></a> |
+| Two assembled handheld generations. [Electronics and enclosure progression](https://github.com/albash0/MiniConsole#from-prototype-to-finished-handheld). | A physical V71 camera prototype. [Current design and development status](https://github.com/albash0/OpenCamera). |
+
 ## Featured projects
 
 | Project | What I worked on | Explore |
@@ -14,11 +21,7 @@ MiniConsole and Waypoint Compass include development timelines, source, hardware
 
 ## Current focus: OpenCamera
 
-| Physical V71 prototype | Engineering focus |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/albash0/OpenCamera/main/docs/images/opencamera-prototype.png" alt="Physical OpenCamera V71 prototype with exposed electronics and batteries" width="180"> | Bringing a film path, lens/mirror geometry, printed mechanisms, and embedded control into one device. A servo moves the mirror, a DC motor drives the rack-and-pinion shutter, and an IR sensor supplies timing data for an exposure estimate. Film advance is currently manual. Light sealing, focus, shutter calibration/repeatability, and electronics integration remain development work. |
-
-*Existing prototype photograph from OpenCamera's public project documentation. [Explore the current design and limitations →](https://github.com/albash0/OpenCamera)*
+OpenCamera brings a film path, lens/mirror geometry, printed mechanisms, and embedded control into one device. A servo moves the mirror, a DC motor drives the rack-and-pinion shutter, and an IR sensor supplies timing data for an exposure estimate. Film advance is currently manual. Light sealing, focus, shutter calibration/repeatability, and electronics integration remain development work. [Explore the current design and limitations →](https://github.com/albash0/OpenCamera)
 
 ## Tools I use in these projects
 
